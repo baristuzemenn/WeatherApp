@@ -22,7 +22,6 @@
     <li><strong>Network operations</strong> with Retrofit</li>
     <li><strong>Asynchronous data processing</strong> using Coroutines</li>
     <li><strong>Data management and UI updates</strong> with ViewModel and LiveData</li>
-    <li><strong>Local data storage</strong> using Room</li>
 </ul>
 
 <h2>Technologies Used 🧰</h2>
@@ -32,7 +31,6 @@
     <li><strong>Retrofit:</strong> API client for network requests</li>
     <li><strong>Coroutines:</strong> Asynchronous programming</li>
     <li><strong>ViewModel & LiveData:</strong> Data management and UI binding</li>
-    <li><strong>Room:</strong> Offline data storage solution</li>
 </ul>
 
 <h2>Project Structure 📂</h2>
